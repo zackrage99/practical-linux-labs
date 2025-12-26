@@ -14,4 +14,4 @@ Commands Used:
 
 Key Takeaway:
 1. Always use SSH for remote connections to Linux servers.
-2. The -P is for specifying port number
+2. The -p is for specifying port number
