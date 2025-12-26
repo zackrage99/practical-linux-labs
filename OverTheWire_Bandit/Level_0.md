@@ -1,4 +1,4 @@
-Level 0 → Level 1
+Level 0
 
 Goal: Log into the game using SSH.
 
